@@ -15,4 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/avimesa-gadget.md
 - docs/editing-in-forestry.md
